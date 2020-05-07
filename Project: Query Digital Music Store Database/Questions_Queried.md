@@ -20,7 +20,7 @@
     ORDER  BY 5 DESC 
     LIMIT  10;
     
-     /* QUESTION 2. Who have written the most rock music between 2009 and 2013 ? */
+     /* QUESTION 2. Who have written the most rock music between 2009 and 2013 ?  */
    
     SELECT a.name           artist_name, 
            g.name           genre_name, 
