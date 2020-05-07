@@ -4,6 +4,7 @@ In this project, the Chinook Database, a digital music store queried which holds
 
 
 ### Summary:
+
 - Written SQL to query a single table;
 - Written SQL to query multiple tables;
 - Asked a question that requires data from multiple places, join the data together, and answer the question (JOINS, AGGREGATIONS, SUBQUERIES, CASE statements used);
