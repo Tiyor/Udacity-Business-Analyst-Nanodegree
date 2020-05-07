@@ -70,7 +70,6 @@ LIMIT  15;
   /* Question 4. What employees contributed the most to the sale throughout 2009 to
     2013 ? */
 
-
 SELECT e.firstname, 
        e.lastname, 
        e.title, 
@@ -81,3 +80,6 @@ FROM   invoice i
        JOIN employee e 
          ON e.employeeid = c.supportrepid 
 GROUP  BY 1;
+
+
+
