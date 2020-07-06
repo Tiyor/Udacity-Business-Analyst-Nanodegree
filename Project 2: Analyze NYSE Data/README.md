@@ -7,7 +7,7 @@ In this project, I worked with a New York Stock Exchange (NYSE) dataset that con
 ### Summary:
   - Calculated summary statistics using spreadsheets;
   - Created data visualizations using spreadsheets;
-  - Asked questions and answer them using data;
+  - Asked questions and answered them using data;
   - Worked with real-world data that has missing and incorrect values;
-  - Calculated key business metrics in financial analysis and interpret values;
-  - Forecast financial metrics using scenario analysis;
+  - Calculated key business metrics in financial analysis and interpreted values;
+  - Forecasted financial metrics using scenario analysis;
